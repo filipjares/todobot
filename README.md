@@ -26,7 +26,7 @@
 
 # 📝 About the Bot
 
-This Bot aims to provide a virtual TODO list inside your discord server. Instead of relying on commands for interacting with the bot, I tried my best to make the entire "user interface" with reactions. That way your users dont have to learn hundrets of new commands and how to use them.
+This Bot aims to provide a virtual TODO list inside your discord server. Instead of relying on commands for interacting with the bot, I tried my best to make the entire "user interface" with reactions. That way your users dont have to learn hundreds of new commands and how to use them.
 
 <br>
 
